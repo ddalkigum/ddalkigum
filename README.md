@@ -19,3 +19,9 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@ddalkigum"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<img 
+        src="http://img.shields.io/badge/-Django%20Blog-655ced?style=flat&logo=django"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=javascript"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
