@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <div style = "display : flex">
    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Django-0B3B17?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/Javascript-F4FA58?style=flat-square&logo=Javascript&logoColor=Black"/></a>&nbsp 
 </div>
