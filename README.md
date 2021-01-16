@@ -20,7 +20,7 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <img 
-        src="http://img.shields.io/badge/-Django%20Blog-655ced?style=flat&logo=django"
+        src="http://img.shields.io/badge/-Django%20-655ced?style=flat&logo=django"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=javascript"
