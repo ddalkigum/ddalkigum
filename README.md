@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 <a href="https://velog.io/@ddalkigum">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://velog.io/@ddalkigum"
+        src="http://img.shields.io/badge/-TechBlog-298A08?style=flat&logo=github&link=https://velog.io/@ddalkigum"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ddalkigum?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/ddalkigum?style=social" style="height : auto; margin-left : 10px; margin-right : 10px;">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Django-0B3B17?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
