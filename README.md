@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddalkigum&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<div>
+<div style = "display:flex>
    <a href="https://velog.io/@ddalkigum">
        <img 
            src="http://img.shields.io/badge/-TechBlog-298A08?style=flat&logo=github&link=https://velog.io/@ddalkigum"
            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
    </a>
+   <img alt="GitHub followers" src="https://img.shields.io/github/followers/ddalkigum?style=social" style="height : auto; margin-left : 10px; margin-right : 10px;">
 </div>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/ddalkigum?style=social" style="height : auto; margin-left : 10px; margin-right : 10px;">
+
 <div style = "display : flex">
    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Django-0B3B17?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
