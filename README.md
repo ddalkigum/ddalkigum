@@ -1,4 +1,4 @@
-### Hi there 👋
+### 효율적인 코드를 짜고싶은 개발자 입니다 
 
 <!--
 **ddalkigum/ddalkigum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
