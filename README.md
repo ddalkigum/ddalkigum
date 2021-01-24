@@ -1,4 +1,5 @@
-### 효율적인 코드를 짜고싶은 개발자 입니다 
+🚀 공유하는 문화, 자기개발을 즐기는 개발문화가 너무 좋아 개발자가 되고 싶습니다 
+
 
 <!--
 **ddalkigum/ddalkigum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
