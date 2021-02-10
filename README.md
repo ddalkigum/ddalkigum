@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ddalkigum&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style = "display:flex>
-   <a href="https://velog.io/@ddalkigum">
-       <img 
-           src="http://img.shields.io/badge/-TechBlog-298A08?style=flat&logo=github&link=https://velog.io/@ddalkigum"
-           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-   </a>
    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ddalkigum?style=social" style="height : auto; margin-left : 10px; margin-right : 10px;">
 </div>
 
@@ -38,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 </p>
 <p>
+  <a href="https://velog.io/@ddalkigum/"> <img src="https://img.shields.io/badge/Velog-4ED998?style=for-the-badge&logo=Vimeo&logoColor=white">
   <a href="mailto:sol35352000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-C63319?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </p>
 </div>
