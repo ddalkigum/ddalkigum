@@ -30,7 +30,14 @@ Here are some ideas to get you started:
 </div>
 
 <div style = "display : flex">
-   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Django-0B3B17?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/Javascript-F4FA58?style=flat-square&logo=Javascript&logoColor=Black"/></a>&nbsp 
+   <p>
+  <img src= "https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-145C21?style=for-the-badge&logo=Django&logoColor=white"> 
+  <img src="https://img.shields.io/badge/MySQL-5295B4?style=for-the-badge&logo=MySQL&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS-20195A?style=for-the-badge&logo=Amazon-AWS&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+</p>
+<p>
+  <a href="mailto:sol35352000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-C63319?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</p>
 </div>
