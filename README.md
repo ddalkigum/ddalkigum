@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 <div style = "display : flex">
    <p>
+      <img src= "https://img.shields.io/badge/Node-3766AB?style=for-the-badge&logo=Node&logoColor=white">
   <img src= "https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/Django-145C21?style=for-the-badge&logo=Django&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-5295B4?style=for-the-badge&logo=MySQL&logoColor=white"> 
